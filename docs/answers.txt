@@ -1,0 +1,26 @@
+1.) On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+2.)Typing in fit rev-list --count HEAD returns 9 commits
+
+3.) Using git log --stat, README was last edited on Septement 25th 2019
+
+4.) Branches are good to use incase an implementation of a feature doesn't pan out or for splitting the project up so it can be tackled by smaller teams
+
+5.) git log returns all changes made, git status returns the most recent commits
+
+6.) git --follow -- Vehicle.h
+
+7.) git log --all --grep='file'
+
+8.) Inheritance is when classes or objects inherit member functions and member variables from its parent. Polymorphisms is the ability for a class to have a function that overrides its parent function. Encapsulation is a class's ability to contain it's members with identifiers like public, private, and protected.
+
+9.) The major difference between the workflows is that Integration Manager don't need to report directly to a manager to push/pull. They just have to email the manager. The Dictator and Lieutenant requires collaborators to report to the lieutenant and then report to a dictator to push/pull.
+
+10.) The dictator and lieutenant workflow is more appropriate for a large team because there's a chain of command to follow, and every push/pull goes through a process of approval. The centralized workflow allows pushing/pulling at anytime.
+
+GitHub account creation: April 25th 2017
+Dates of going through GitHub Tutorials: Octover 6-7 2020
